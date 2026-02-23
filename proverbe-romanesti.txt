@@ -13,7 +13,6 @@ sursele clasice ale paremiologiei românești:
   Folclor a Academiei Române
 
 ========================================
-
 1. Cine se scoală de dimineață, departe ajunge.
 2. Apa trece, pietrele rămân.
 3. Capul plecat, sabia nu-l taie.
@@ -114,3 +113,893 @@ sursele clasice ale paremiologiei românești:
 98. Omul cât trăiește învață.
 99. Nu barba îl face pe filozof.
 100. Cine-și ară ogorul, își umple sacul.
+101. Va răsări soarele,și,pe ulița noastră.
+102. A ajuns un papugiu,",",țipă ca un surugiu.
+103. A dat Dumnezeu boale,dar,a dat și leacuri.
+104. A luat meșterul ilăul,",",strică bun și fac răul.
+105. A nu avea nici sfânt,",",nici Dumnezeu.
+106. A tăcut cucul,",",a trecut vara.
+107. A vorbit într-un ceas rău,că,l-a lăsat Dumnezeu.
+108. A vorbit și nea Ion,că,este și el om.
+109. Ai început să te uiți numai la Dumnezeu, ca,găina când bea apă.
+110. Ai lucrat bine vara,",",ai și grâu și secară.
+111. Ai scăpat vremea,",",ai scăpat roada.
+112. Așa-i omul,",","dacă moare, nu mai bea."
+113. Aurul se încearcă la foc,și,prietenul la nevoie.
+114. Azi aici,",",mâine-n Focșani.
+115. Baba a căzut din pod,și,tot s-a hodinit la jumătate.
+116. Baba bătrână nu se teme, ,de vorba groasă.
+117. Baba călătoare, ,n-are sărbătoare.
+118. Bacșisul să fie cât de mic,",",că-l vrea și domn și calic.
+119. "Bagă-l în casă, te fură",",","dă-l afară, te înjură."
+120. Bani au mulți,însă,cinste n-au toți.
+121. Barba lasă să se ducă,",",capul să trăiască.
+122. Barbă lungă,",",minte scurtă.
+123. Bărbatul zice-n fluier,",",muierea plânge de foame.
+124. Bat-o vina de gură,că,n-o poți înconjura.
+125. Bătăuș nu-s,că,toți mă bat.
+126. Bate fierul, ,cât e cald.
+127. Bate toba în Moldova,și,s-aude la Craiova.
+128. Bate toba surdului,",",dă oglinda orbului.
+129. Bătrânu-și amintește,",",tânărul trăiește.
+130. Băutura cine-o iubește,",",la sfârșit se prea căiește.
+131. Bea,până,cade în șanț.
+132. Bea cu oala să fugă boala,și,cu ploschița să-și ude gurița.
+133. Beleaua lui Costache, ,o trage Iordache.
+134. Beția nu e frumoasă,și,nici sănătoasă.
+135. Bețivanul când merge pe punte,",",închide ochii să nu cadă.
+136. Bețivul cu un gând,și,cârciumarul cu alt gând.
+137. Bețivul se învață cu beția,",",ca tâlharul cu hoția.
+138. Bine este să asculți,și,sfatul unei neveste.
+139. Bine zice moș Arvinte,:,vai de cap unde nu-i minte.
+140. Binele de rău te scapă,",",să-l arunci chiar și în apă.
+141. Bogăția trece dealul,și,tu rămâi cu amarul.
+142. Bolnav de moarte,și,mâncă de toate.
+143. Bucățica din mâna străină, ,pare mai mare.
+144. Bucurie goală,",",traistă ușoară.
+145. Bun om,",",păcat că mor alții înaintea lui.
+146. C-un picior în groapă,și,cu altul afară.
+147. Ca necinstea,",",nici o pedeapsă mai grea.
+148. Ca răbdarea la necaz,",",nici un leac mai bun.
+149. Ca să te poți scărpina bine,",",trebuie să ai de cine.
+150. "Că-i laie, că-i bălaie",",","ba una, ba alta."
+151. Căința din urmă,să,nu fie mai mare decât ce dintâi.
+152. Călătorului îi șade bine cu drumul,ca și,calului cu frâul.
+153. Călugărul și cerșetorul, ,sunt totuna.
+154. Când ai bani,",",ai și dușmani.
+155. Când ai bani,",",ai și noroc.
+156. Când ai nevoie,",",îndrăznești fără a mai aștepta să fii poftit.
+157. Când ar fi numai un cerșetor,",",toți cu zahăr l-ar hrăni.
+158. Când arde moara,și,șoarecii se prăpădesc.
+159. Când are toate adunate,",",atunci la toți este frate.
+160. Când aud de zi de lucru,",",mi se îngrelează trupul.
+161. Când cântă cocoșul,",",se scoală moșul.
+162. Când casa ta are sete,",",nu vărsa apă pe drumuri.
+163. Când cei de jos greșesc,",",este nădejde de tămăduire.
+164. "Când dă Dumnezeu, dă,",iar,"când ia, apoi îți ia și cenușa din vatră."
+165. Când dai,",",nu iei.
+166. Când doi se bat,",",al treilea câștigă.
+167. Când doi spun că ești beat,",",du-te și te culcă.
+168. Când Dumnezeu nu-i acasă,",",sfinții își fac de cap.
+169. Când e minte,",",nu se vinde.
+170. Când ești cu el,ca și,cum ai fi singur.
+171. Când ești poftit la o masă,",",pleacă sătul de acasă.
+172. "Când eu cumpăr, nimeni nu vinde",când,"eu vând, nimeni nu cumpără."
+173. Când geme mortul,și,dracul moare de necaz.
+174. Când grăiesc femeile la izvor,",",să știi că-i drept.
+175. Când iese urzica,",",se lasă furca.
+176. Când îi bătălia mai mare,",",își ia picioarele-n spinare.
+177. Când îi bine de trăit,",",atunci am îmbătrânit.
+178. Când îi dă Dumnezeu,",",nici dracu’ n-are ce-i face.
+179. "Când îi dai, îi fată iapa",când,"îi ceri, îi moare mânzul."
+180. Când îi merge omului,",",îi merge în toate.
+181. Când îi vorbi,",","pune-ți trei lăcăți: la inimă, la gât și la gură."
+182. Când îl bați pe coconaș,",","ori bate-l cum se cade, ori nu te mai încurca."
+183. Când îl cuprinde pe om lenea,",",sărăcia i se suie-n spate.
+184. "Când îmi merge bine, toți îs cu mine",când,"îmi merge rău, rămân numai eu."
+185. Când înfloresc salcâmii,",",nu mai bate bruma.
+186. Când îngheață balta,",",se duce și el să prindă pește.
+187. Când iubești,să,ai răbdare.
+188. Când m-am săturat de borș cu sfeclă,",",îmi aduce purcel fript.
+189. Când mi-i sete să-mi dai apă,iar,nu fierea după ce-mi crapă.
+190. Când mi-oi vedea, ,ceafa.
+191. Când moare ciobanul,",",se împrăștie oile.
+192. Când n-ai frumos,",",pupi și mucos.
+193. Când n-ai ochi negri,",",săruți și albaștri.
+194. Când n-are plugarul,nici,nădrăgarul.
+195. Când nenorocirea doarme,",",ferește-te s-o deștepți.
+196. Când nici nu te gândești,",",atunci te trântește.
+197. Când nimeni nu va vorbi de tine,",",mai bine să te îneci.
+198. Când norocu-și schimbă pasul,",",n-aduce anul cât aduce ceasul.
+199. Când norodul te urăște,",",cinstea și puterea ta îndată se sfârșește.
+200. Când nu ajung multe la toate,",","cum o dai, tot ruptă-n coate."
+201. Când nu este socotință,",",socoteala merge rău.
+202. Când nu putem face ce voim,",",trebuie să voim ce putem.
+203. Când nu te gândești,",",atunci te trântești.
+204. Când nu-i prietenie,",",spor în lucru n-o să fie.
+205. Când o face salcia mere,și,răchita micșunele.
+206. Când o fi la mijloc banii,",",nu se mai întreabă anii.
+207. Când omul se silește,și,Dumnezeu îl ajută.
+208. Când puterea se sfârșește,",",inima la ce slujește?
+209. Când s-au dat noroacele,",",eu eram cu vacile.
+210. Când se ceartă împărații,",",mor soldații.
+211. Când se culcă grâul,",",se scoală stâpânul.
+212. Când se lasă ceața jos,",",este semn de timp frumos.
+213. Când se rupe o verigă,",",tot lanțul se desface.
+214. Când se trage clopotul cel mare,",",cele mici nu se mai aud.
+215. Când seacă lacul,",",se vede peștele.
+216. Când șezi între înțelepți,să,asculți mai mult decât să vorbești.
+217. Când sunt zile și noroc,",",scapi din apă și din foc.
+218. Când tai răzorul altuia,",",atâta taie altul pe al tău.
+219. Când te arde cărbunele,",",îl arunci și în barba lui tat-tău.
+220. Când te bate Dumnezeu,",",nu te mai poate milui nimeni.
+221. "Când te-a înșelat cineva odată, e de vină el",când,"te-a înșelat a doua oară, ești de vină singur."
+222. Când te-a scăpa Dumnezeu,",",dracu’ te și apucă.
+223. Când ți se pune dracul pe țundră,",","trebuie ori s-o tai, ori să i-o lași."
+224. Când ți-e brânza mai proaspătă,",",n-ai smântână.
+225. Când tragi clopotele la Hotin,",",s-aude la Ismail.
+226. Când treci țara orbilor,",",închide și tu un ochi.
+227. Când vede omul nevoia,",",vorbește ce nu-i e voia.
+228. Cându-i să te ia dracu’,",","te ia și din biserică, ca pe Macehala."
+229. Cap ai,",",minte ce-ți mai trebuie.
+230. Căpăstru are,",",îi mai trebuie cal.
+231. Capul ca maiul,",",gâtul cât îi paiul.
+232. Capul face,",",trupul trage.
+233. Capul să fie sănătos,că,belelele curg gârlă.
+234. Cârciumarului îi place bețivul,dar,fata după dânsul n-o mărită.
+235. Care ascultă la ușă,",",își aude defaima.
+236. Care începe bine,",",sfârșește frumos.
+237. Care însuși face,",",face cât trei.
+238. Casa e casă,când,ai o gospodină în casă.
+239. "Casa-i goală, ca o oală",",",de n-are de ce se prinde mâța.
+240. Căscatul dintâi, ,cere căpătâi.
+241. Cât de mică picătura,și,tot găurește piatra.
+242. Cât de rău să trăiască omul,tot,nu se îndură să moară.
+243. Cât de strâmb vrei să șezi,dar,vorba dreaptă s-o așezi.
+244. Cât e baba de bătrână,",",tot dorește voie bună.
+245. Cât e moșul de bătrân,",",tot dorește măr în sân.
+246. Cât ține nunta,",",slugile sunt scutite de bătaie.
+247. Câtă pânză ai lucrat,",",apusul soarelui ți-o arată.
+248. Cătătura dulce, ,la dragoste duce.
+249. "Câte belele, câte bube rele",",",toate-n capul babei mele.
+250. Câte capete,",",atâtea păreri.
+251. Câte flori sunt pe pământ,",",toate se duc în mormânt.
+252. Câte sate a umblat,",",atâtea meșteșuguri a învătat.
+253. Câte-n lume se nasc,",",mor toate.
+254. Câți cu nădragi,",",toți îi sunt dragi.
+255. Caut una,și,dau peste alta.
+256. Caută ce n-a pierdut,și,găsește ce n-a vrut.
+257. Caută luleaua,și,e cu ea în gură.
+258. Caută nod, ,în mămăligă.
+259. Caută pe dracu’,și,nu-l găsește.
+260. Ce apucă pământul,",",lesne se uită.
+261. Ce dai săracilor,",",ție-ți dai.
+262. Ce e astăzi,",",mâine nu e.
+263. Ce e gras,",",e și frumos.
+264. Ce e în inima treazului,",",stă în gura bețivului.
+265. Ce face la beție,",",se căiește la trezie.
+266. Ce folos de chip frumos,dacă,nu e lipicios.
+267. Ce înghite pământul,",",viață nu mai are.
+268. Ce intra-n gură nu e păcat,ce,"iese din gură, aceea e mare păcat."
+269. Ce se naște,",",moare.
+270. Ce spui la ureche,",",în pădure se aude.
+271. Ce-a câștigat într-o vară,",",a băut într-o seară.
+272. Ce-a fost verde s-a uscat,",",ce-a fost dulce s-a mâncat.
+273. Ce-am avut,și,ce-am pierdut.
+274. Ce-am fost ieri,",",nu sunt azi.
+275. Ce-i drept,",",nu-i păcat.
+276. Ce-i drept,și,lui Dumnezeu îi place.
+277. Ce-și face omul singur,",",nici dracu' nu desface.
+278. Ceasul e bun,",",până n-a fost pe mâna ceasornicarului.
+279. Ceea ce e curat,",",n-are trebuință de spălat.
+280. Cel ce nu lucrează ziua,",",flămânzește noaptea.
+281. Cel ce se teme de moarte,",",aleargă după ea.
+282. Cel înțelept învață,din,înșelăciunea cea dintâi.
+283. Chibzuința e soră,cu,iscusința.
+284. Chipul cel frumos, ,tare-i drag și lipicios.
+285. Cinci degete la o mână,și,nu seamănă unul cu altul.
+286. Cine adună la tinerețe,",",are la bătrânețe.
+287. Cine aleargă mult,",",mănâncă unt.
+288. Cine are barbă,",",să-și cumpere și pieptene.
+289. Cine are minte,nu,se amestecă în gâlceava altora.
+290. Cine are vreme,",",să n-o piarză.
+291. Cine are-un meșteșug,",",nu trage ca vita-n jug.
+292. Cine bea pân’ la-mbătare,",",nume bun în lume n-are.
+293. Cine cade în gârlă,",",de ploaie nu se mai ferește.
+294. Cine caută pe dracu’,",",întotdeauna îl găsește.
+295. Cine caută vreme,",",pierde vremea.
+296. Cine e bun,",",place și lui Dumnezeu.
+297. Cine e sfânt,",",pe așternut moale nu doarme.
+298. Cine e viteaz,",",în urma războiului se cunoaște.
+299. Cine începe cu Dumnezeu,cu,Dumnezeu sfârșește.
+300. Cine intră în cârciumă,",",nu intră să se închine.
+301. Cine iubește,",",iartă.
+302. Cine la tinerețe e leneș,",",suferă la bătrânețe.
+303. Cine lucrează și tace,",",mai multă treabă face.
+304. Cine mai adânc ară,",",mai mult cară.
+305. Cine moare,",",groapa lui și-o astupă.
+306. Cine moare,",",nu mai vine.
+307. Cine muncește și învață,",",om deștept devine-n viață.
+308. Cine n-are belea,",",Dumnezeu să-i dea.
+309. Cine n-are noroc,",",să-l caute.
+310. Cine noroc are,",",pune piatră și răsare.
+311. Cine nu deschide ochii,",",deschide punga.
+312. Cine nu este dator,",",este foarte bogat.
+313. Cine nu își vrea binele,să,nu i-l dea Domnul.
+314. Cine nu muncește,",",nu știe ce-i odihna.
+315. Cine nu poate răbda,",",nu mănâncă poamă coaptă.
+316. Cine păgubește,",",se înțelepțește.
+317. Cine pune cu dracul în plug,",",scoate boii fără coarne.
+318. Cine se codește mult,",",face puțin.
+319. Cine se duce să se roage sfântului,",",să-i ducă lumânare cu tămâie.
+320. Cine se învață,",",moartea îl desvață.
+321. Cine se iubește,",",în tot locul se-ntâlnește.
+322. Cine se joacă cu dracu’,",",dă și peste tat-său.
+323. Cine se teme de moarte,",",și-a pierdut viața.
+324. Cine șede,",",își leagă norocul.
+325. Cine te iubește,",",acela te lecuiește.
+326. Cine vede nașterea,",",vede și moartea.
+327. Cine-i cu noroc,",",e și cu minte.
+328. Cine-i frumos îi tot frumos,și,din față și din dos.
+329. Cine-ntr-altă lege sare,",",nici un Dumnezeu nu are.
+330. Cinste dai,",",cinste ai.
+331. Cinste dai,",",cinste găsești.
+332. Cinstea nu se cumpără,nici,nu se vinde.
+333. Cinstea odată pierdută,",",greu se capătă iară.
+334. Cinstea preț n-are,",",fericit cel ce o are.
+335. Cinstea se adună greu,dar,se risipește ușor.
+336. Cinstea se câștigă prin muncă,și,fapte bune.
+337. Cinstea și hărnicia,",",iată omenia.
+338. Cinstea-i,cum,și-o face omul.
+339. Cinstea-i mai scumpă,decât,toate.
+340. Cinstea-i pasăre sălbatică,dacă,o scapi n-o mai prinzi.
+341. Cireșele trec,dar,obrazul rămâne.
+342. Clopotul numai atunci sună,",",când îl tragi.
+343. Coada cap când ajunge,",",crede că poate împunge.
+344. Crăciunul sătul,",",Paștele fudul.
+345. Crâșma cui îi place,",",boi în jug nu face.
+346. Cu bărbatul băutor,",",nu faci pită în cuptor.
+347. Cu capul,nu,spargi zidul.
+348. Cu dreptatea pe Vanghelie jură,și,cu stânga fură.
+349. Cu frumusețea,nu,ții casa.
+350. Cu gândul la Dumnezeu,și,cu mâna prin sânul meu.
+351. Cu nădejdea te duci,și,în groapă.
+352. Cu o falcă în cer,și,alta în pământ.
+353. Cu obrazul gros și semeț,și,cu gura de orbeț.
+354. Cu plânsul,nu,se înviază morții.
+355. Cu răbdarea treci și marea,dar,cu răul nici părăul.
+356. Cu voință de oțel,",",totdeauna ajungi la țel.
+357. Cu vrajba și urgia, ,raiul n-o să dobândești.
+358. Cui i se croiește rău,",",rău îi merge.
+359. Cum e sfântul,",",așa-i și tămâia.
+360. Cum îi dracu’,",",așa-i și tată-său.
+361. Cum ți-i partea și norocul,",",așa ți-i pe lume locul.
+362. Cumpără la timp,și,vei avea la nevoie.
+363. D-aci înainte ciobu’,și,lumânarea.
+364. D-aci înainte sapa,și,lopata.
+365. Dă cu negru peste verde,că,stăpânul nu ne vede.
+366. Dă din mâini,și,ceru-ți va ajuta.
+367. Dă Doamne cui ai mai dat,că,"de-i da cui n-ai mai dat, s-o mira ce l-o aflat."
+368. Dă-mi doamne,",",puterea tânărului și mintea bătrânului.
+369. Dac-ai ști unde-ai cădea,",",măcar paie ți-ai așterne.
+370. Dacă ai picioare,",",cată-le și încălțare.
+371. Dacă are omul noroc,măcar,să samene cărbuni și tot se face.
+372. Dacă Dumnezeu ar fi dat porcului coarne,",",răsturna Pământul.
+373. Dacă n-ai noroc și parte,",",degeaba te scoli de noapte.
+374. Dacă nu semeni păpușoii la vreme,",",pune melesteul pe foc.
+375. Dacă nu-ți merge de dimineață,să,știi că nu-ți merge ziua întreagă.
+376. Dacă omul cade,",",îi piere și umbra.
+377. Dai un deget,și,îți ia mâna toată.
+378. Dar din dar, ,se face raiul.
+379. De când lumea,și,Ardealul.
+380. De ce beau la băutură,",",de ce am inimă bună.
+381. De ce te temi,",",de aceea nu scapi.
+382. De departe trandafir,",",de aproape borș cu știr.
+383. De fiecare pahar plin,",",bețivul trage câte-un suspin.
+384. "De la pâine, putere",",","de la spirt, durere."
+385. De moarte nimeni nu e gata,când,sosește ceasul.
+386. De moarte nu te teme,și,de viață nu fii cu grijă.
+387. "De moarte și de nuntă, nimeni, niciodată",",",nu poate fi gata.
+388. De multe ori ai gură,și,n-ai limbă.
+389. De nu era nasul,",",beleai obrazul.
+390. De nu știi ca Hristos,",",batâr ca Sfântul Petru.
+391. De omul viteaz,și,moartea face haz.
+392. "De sfânt, sfânt să fii",dar,de frică tot să știi.
+393. De spălat ce-i,",",o ling mâțele.
+394. De te potrivești paharului,",",nu ești om.
+395. De unde alergi,",",d-acolo mănânci.
+396. De unde nu-i,",",nici Dumnezeu nu cere.
+397. De-ar ști omul când are să moară,",",și-ar săpa singur groapa.
+398. De-ar ști omul ce-ar păți,nici,din casă n-ar ieși.
+399. Decât niciodată,",",mai bine mai târziu.
+400. Decât sărac,",",mai bine drac.
+401. Decât un an nicovală,",",mai bine trei zile ciocan.
+402. Decât un car de minte,",",mai bine un dram de noroc.
+403. Decât viață cu necaz,",",mai bine moarte într-un ceas.
+404. Degeaba ai trăit,dacă,pe nimeni n-ai iubit.
+405. Degetele să-mi trăiască,",",inele se găsesc.
+406. Depărtarea dragostei,nu,amestecă.
+407. Din gură te unge,și,din inimă te frige.
+408. Din inimă rea,",",rău gând purcede.
+409. Dintele când te doare,",",cu cleștele se domoale.
+410. Dinții i-au ieșit,",",mai sunt ochii.
+411. Doar nu-s tuns,",",nici ras pe cap.
+412. Doi ochi văd mai bine,decât,unul.
+413. Drac pe drac,nu,se trag de cap.
+414. Dracu’ stă în vale,și,prăvale carul în vale.
+415. Dracul când a îmbătrânit,",",atunci s-a călugărit.
+416. Dracul când n-are de lucru,",",își aprinde luleaua.
+417. Dracul șade,și,în vârful acului.
+418. Dracul toate ar vrea să fie,",",numai ucenic nu.
+419. Dracului la crâșmă-i place,că,la biserică n-are ce face.
+420. Dracului nu-i pasă,dacă,faci una sau mai multe cruci.
+421. Dragoste chioară,pe,rogojină goală.
+422. Dragoste cu sila,nu,se poate.
+423. Dragostea are un dar,",","când e dulce, când amar."
+424. Dragostea cea veche, ,îți șoptește la ureche.
+425. Dragostea de apoi, ,e mai dulce ca cea dintâi.
+426. Dragostea de nevastă,",",ca garoafa din fereastră.
+427. Dragostea e oarbă,dacă,căsătoria îi găsește leacul.
+428. Dragostea înțelege, ,toate limbile.
+429. Dragostea nu e o moșie,",",ca să o iei cu chirie.
+430. Dragostea seacă,",",cui dracu’ să-i placă.
+431. Dragostele înșelate, ,strigă-n veci după dreptate.
+432. Dragu-mi-e bădița spân,",",că-i și tânăr și bătrân.
+433. Dumnezeu așa împarte,:,"la unul prea mult, la altul, nimic."
+434. Dumnezeu dă,dar,nu aduce acasă.
+435. Dumnezeu dă,",",Dumnezeu ia.
+436. Dumnezeu dă omului,dar,în traistă nu-i bagă.
+437. Dumnezeu giruiește,și,nebunul trage nădejde.
+438. Dumnezeu nu răsplatește ca dușmanul,ci,gonește cu anul.
+439. După ce apune soarele,",",laudă ziua.
+440. Dupa ce-ți degeră urechea,degeaba,mai pui căciulă.
+441. După furtună vine,și,vreme bună.
+442. După gură,",",lingură.
+443. După moarte,",",pocăință.
+444. După ploaie,",",căciulă de oaie.
+445. După poamă se cunoaște pomul,și,după faptă omul.
+446. După ultima baie,",",scapi de toate grijile.
+447. După vremea rea,și,senin.
+448. E bătut la cap,",",tocmai ca un țap.
+449. E bine să fii stângaci,ca să,împuști pe dracu’.
+450. E om frumos,dar,năravul îl strică.
+451. Este tare de urechi,că,n-are două perechi.
+452. "Fă-mă, mamă, cu noroc",și,m-azvârle-apoi și-n foc.
+453. Fă-te frate și cu dracu’,",",până treci podul.
+454. Fă-ți cruce mare,că,e dracu’ bătrân.
+455. Femeia cinstită, ,e soarele casei.
+456. Fete urâte la șaptesprezece ani,nu,sunt.
+457. Fiecare pentru sine,",",Dumnezeu pentru toți.
+458. Fiecare știe, ,unde-l doare măseaua.
+459. Fierbe sângele în el,",",ca într-un rac mort.
+460. Frumosul la frumos trage,dar,noi sluții ce vom face?
+461. Frumusețea fără înțelepciune, ,este ca o floare în tină.
+462. Frumusețea la om,ca,floarea la pom.
+463. Frumusețea veștejește,dar,înțelepciunea crește.
+464. Fuge de dracu’,și,dă peste satana.
+465. Fuge de noroc, ca,dracul de tămâie.
+466. Fugi de noroc,",",da’ el după tine.
+467. "Fugiți, călcâie",",",că vă calc!
+468. Gândul nebunului,",",la capătul pământului.
+469. "Gol ai venit, gol te duci",",",cu tine d-aici nimic nu duci.
+470. Gura e ca apa și vântul,:,greu se oprește.
+471. Gura îndulcește,",",gura amărăște.
+472. Gura mereu curățată,",",de dureri este cruțată.
+473. Gură multă,",",treabă puțină.
+474. Gura nu cere chirie,",",poate vorbi orice fie.
+475. Gura omului,numai,pământul o astupă.
+476. Gură rea,",",inimă rea.
+477. Gura sacului o legi,dar,a satului niciodată.
+478. Gura se satură,dar,ochii niciodată.
+479. Gura tăcută,",",nu umblă bătută.
+480. Gura zice,",",vântul duce.
+481. Hoțul își bate joc de cinste,dar,la nevoie o cerșește.
+482. Iartă pe toți,",",numai pe tine nu.
+483. "Iartă-l, Doamne",că,nu știe ce face.
+484. Îi arăți pe Dumnezeu,și,zice că e dracu’.
+485. Îi e mai mare urechea pe care iese,",",decât aceea pe care intră.
+486. Îl caută moartea pe-acasă,și,el umbla prin vecini.
+487. În ce apă te scalzi,",",în aceea te vei îneca.
+488. În dorul amorului,",",săruți gura cuptorului.
+489. În inima smeritului, ,șede dracul grecește.
+490. Inima când se-nveselește,",",fața înflorește.
+491. Întâi capul să gândească,și,apoi limba să vorbească.
+492. Înveți pe dracu’,să,dea cu pușca.
+493. Iubește cât ești tânăr,că,"dacă-i muri, nimeni nu te va iubi."
+494. Iubirea nu se cumpără,",",ea vine de la sine.
+495. Iubirea nu-i pojar,dar,"când se aprinde, n-o mai poți stinge."
+496. Iubirea-i ca și focul,:,se aprinde și se stinge.
+497. La apă cu măsură,",",la vin fără măsură.
+498. La așa cap,",",așa căciulă.
+499. La așa obraz,",",așa brici.
+500. La casa cu noroc, ,fierbe oala fără foc.
+501. La ce-i bună pocăința, ,după moarte.
+502. La Drăgășani,și,sfinții sunt cu nasurile roșii.
+503. La groapa altuia, ,e ușor să cânți aleluia.
+504. La însurătoare și la moarte,nu,se poate să n-ai parale.
+505. La măseaua care te doare,",",te lovește limba mai des.
+506. La soare te poți uita,dar,la dânsa ba.
+507. Laudă-mă gură,",",că ți-oi da friptură.
+508. Laudă-te gură,că,alții nu se îndură.
+509. Lesne a atârna tigva de coadă,dar,anevoie a o purta.
+510. Limba când greșește,",",adevărul grăiește.
+511. Limba e dulce ca mierea,și,amară ca fierea.
+512. Limba nu are case,",",se îndoaie după gând.
+513. Limba oase n-are,dar,oase sfărâmă.
+514. Limba oase n-are,dar,"unde atinge, doare."
+515. Limba scapă-n gură,",",spatele rămâne la măsură.
+516. Lucrul cel mai scump e cinstea dar ce folos,",",unii o vând prea ieftin.
+517. Lui îi crește barba,și,sub dânsul iarba.
+518. Lung în mână,",",scurt în vână.
+519. Mai bine cu capul netuns,decât,cu el tăiat.
+520. Mai bine legumă puțină,și,dragoste multă.
+521. Mai bine moarte cinstită,decât,viață pricopsită.
+522. Mai bine pierzi un deget,decât,mâna toată.
+523. Mai bine să cred ochii,decât,urechile.
+524. Mai bine să fii odată om,decât,de două ori nimic.
+525. Mai bine să mori mâine,",",nu azi.
+526. Mai bine să te însori de două ori,decât,să mori odată.
+527. Mai mulți se îneacă în băutură,decât,în apă.
+528. Mâna altuia,nu,te scarpină cum îți place.
+529. Mănâncă sfinți,și,fată draci.
+530. Mândra bea și chefuiește,",",mândrul tace și plătește.
+531. Mare e Dumnezeu,dar,meșter e și dracu’.
+532. Marea că e mare și încă are fund,dar,inima omului.
+533. Mic ca acul,și,rău ca dracul.
+534. Mintea e bună,dacă,e soră și cu norocul.
+535. Moartea nu mai are moarte,",",cât o fi pământul.
+536. Moartea nu spune,când,vine.
+537. Moartea nu vine la noi,când,o chemăm.
+538. Moartea voinicului,",",din mâna calicului.
+539. Morții cu morții,",",viii cu viii.
+540. Muierea cu ochi frumoși, ,pe toți îi face voioși.
+541. Muierea curată,",",de miros te-mbată.
+542. Muierea înțeleaptă,",",coroana bărbatului.
+543. Muierea tânără,ca,vinul nou fierbe.
+544. Multe până la rai,dar,până-n iad e numai un gard ș-ăla-i tot spart.
+545. N-a pierdut nimenea norocul,",",să-l găsesc eu.
+546. N-am la ce muri,",",nici la ce trăi.
+547. N-are nici cap,",",nici coadă.
+548. Nașterea omului e pentru alții,;,moartea e a lui.
+549. Nevasta nu e cârpă,să,o descoși și să o lepezi.
+550. Nici cu viii,",",nici cu morții.
+551. Nici la deal,",",nici la vale.
+552. Nici nu-ți trebuie să fii frumos,când,ești norocos.
+553. Norocu-i ca o scară,:,"unul când suie, altul se coboară."
+554. Norocu-i după,cum,și-l face omul.
+555. Norocul e nimic,",",înțelepciunea e totul.
+556. Norocul e schimbător,:,"când nu știi să-l ții, el te lasă."
+557. Norocul întâi râde,",",apoi plânge.
+558. Norocul ocolește locul,",",unde-i sfadă și batjocură.
+559. Nu ceea ce intră-n gură spurcă pe om,ci,ceea ce iese din gură.
+560. Nu e bețiv cine bea,ci,cel ce se îmbată.
+561. Nu fac viii, ,ce zic morții.
+562. Nu foarfecele bune fac croiala dreaptă,și,nu te ruga sfântului care nu te ascultă.
+563. Nu poți fi și cu dracul în suflet,și,cu sufletul în rai.
+564. Nu se știe cine trăiește,și,cine moare.
+565. Nu sta,",",că-ți stă norocul.
+566. Nu te ruga de sfântul,care,nu-ți ajută.
+567. Nu toate femeile cu cheile în brâu, ,sunt gospodine.
+568. Nu-i așa de negru dracul,cum,îl fac babele.
+569. Nu-i bețiv,dar,setea îl omoară.
+570. Nu-i cum gândește omul,ci,cum vrea Domnul.
+571. Nu-i dracul drac,ca,străinul în conac.
+572. Nu-i frumos ce-i frumos,dar,e frumos ce-mi place mie.
+573. Nu-i frumos cine se ține,",",îi frumos cui îi stă bine.
+574. Nu-i viață fără vină,și,moarte fără pricină.
+575. "Nu-mi da, Doamne",cât,pot răbda.
+576. Nu-mi place că-i frumos,dar,îmi place că-mi place.
+577. Numai când moare omul,,se cunoaște ce-a fost.
+578. O mână spală pe alta,și,"amandouă, obrazul."
+579. O mie de fricoși,nu,fac cât un viteaz.
+580. O venit vremea de-apoi,",",încărcată cu nevoi.
+581. Oamenii în sat nu întreabă de casa frumosului,dar,de-a mintiosului.
+582. Ochi pentru ochi,și,dinte pentru dinte.
+583. Ochii sperie,",",picioarele bucură.
+584. Ochii văd,",",inima cere.
+585. "Ochii văd, inima cere",dar,e rău când n-ai putere.
+586. Om bun,dar,cu năravul dracului.
+587. Om frumos, ,fără ponos nu se poate.
+588. Om în trup destul de mare,și,minte de copil are.
+589. Omul astăzi este,",",mâine nu-i.
+590. Omul bătrân și nebun,",",leagă-l de gard și-i dă fân.
+591. Omul beat se trezește,dar,prostul niciodată.
+592. Omul calic și fudul,și,lui Dumnezeu i-i urât.
+593. Omul când suspină,și,dracului i-e milă.
+594. Omul cât trăiește,",",de noroc se plânge.
+595. Omul cu toate se deprinde,",",numai să vrea.
+596. Omul dacă se păzește,și,Dumnezeu îl grijește.
+597. "Omul, ca oul",",",cum îl atingi îndată se sparge.
+598. "Omul, când e să se înece",",",se agață și de un pai.
+599. "Omul, când își pierde drumul",",",nu găsește nici cărarea.
+600. "Omul, când se pricopsește",",",la ai săi nu se gândește.
+601. "Omul, cât de bătrân să fie",",",tot nu vrea să moară.
+602. "Omul, cât îl lași",",",atâta se întinde.
+603. Păcatele-s pe oameni,",",nu pe butuci.
+604. Păcatul intră râzând,și,iese plângând.
+605. Păcatul mărturisit, ,este pe jumătate iertat.
+606. Păcatul vechi, ,aduce rușine nouă.
+607. Până ajungi la Dumnezeu,",",te mănâncă sfinții.
+608. Pântecele se satură,dar,ochii niciodată.
+609. Pântecele se umple,și,cu paie și cu fân.
+610. Părul când albește,",",inima se topește.
+611. Pe cap bun stă bine,și,o căciulă ruptă.
+612. Pe dracu-a căutat,",",pe dracu’ a găsit.
+613. Pe dracu' nici să-l vezi,",",nici să te vadă.
+614. Pe dracu’ du-l la cruce ori nu-l duce,",",om de pace nu-l vei face.
+615. Pe față sfinți,",",pe ascuns draci cumpliți.
+616. Pe unde iese graiul,",",iese și sufletul.
+617. Pe-o ureche intră,și,pe alta iese.
+618. Pereții au urechi,și,străzile ochi.
+619. Picioarele nu-l mai țin,și,el strigă: “Adă vin!”.
+620. Pielea rea și răpănoasă,ori,o bate ori o lasă.
+621. Plin de noroc, ,ca oaia de curnuți.
+622. Plini de barbă,și,goi de minte.
+623. Prost să fii,",",noroc să ai.
+624. "Puiu, chiar de drac",și,tot e frumos.
+625. Rabdă inimă și taci,că,tu toate mi le faci.
+626. Rabdă inimă și taci,",",ce-ai făcut să nu mai faci.
+627. "Rabdă, suflețele",și,la bune și la rele.
+628. Rachiul nu te întărește,dar,te calicește.
+629. Râde dracul de porumbele negre,și,nu se vede pe el.
+630. Râde om de om,și,dracul râde de toți.
+631. Răsare soarele în toată ziua,",",dar nu se și vede întotdeauna.
+632. Roagă-te la Dumnezeu,și,muncește tot mereu.
+633. Rușinos,dar,sănătos.
+634. S-a dus la rai, ,cu cerga-n cap.
+635. S-a spânzurat,ca,dracu-n cânepă.
+636. Se hrănește,și,în piatră seacă.
+637. Se oblojește la nas,",",ca să-i treacă de deget.
+638. Se uită soarele îndărăt,",",se strică vremea.
+639. Se va întoarce ea,",",roata norocului.
+640. Șede,",",dar norocu-i crește.
+641. Șede dracul în baltă,și,râde de altul.
+642. Si capul de împărat,tot,cu sabia e tăiat.
+643. Și cu slănina-n pod,și,cu curechiul uns.
+644. Și dracul pare frumos,când,e tânăr.
+645. Și fără cap,și,fără picioare.
+646. Și nasul miroase florile cele mai frumoase,și,din el iese zeama cea mai urâtă.
+647. Și sfântul Petru vămuiește,cu ,aur la porțile raiului.
+648. Și tina lucește,când,soarele o izbește.
+649. Și-a pierdut credința, ca și,Eva raiul.
+650. Și-a trăit traiul,",",și-a mâncat mălaiul.
+651. Și-a uitat Dumnezeu de el,",",numai dracu-l mai ține în slavă.
+652. Soarele încălzește, ,și pe buni și pe răi.
+653. Soarele răsare,chiar,dacă nu cântă cocoșii.
+654. Știe numai Dumnezeu,și,vaca.
+655. Stomacul cel tare,și,pietre mistuie.
+656. Sub mănușă stă ascunsă,și,cea mai urâtă mână.
+657. "Taci, limbă",că,nu te doare capul.
+658. Tânăr lângă tânără,",",ca paiele lângă foc.
+659. Țara moare de tătari,și,el bea cu lăutari.
+660. Te spune nasul,că,îți place vinarsul.
+661. Ți-e milă de dracul,și,el scoate coarne.
+662. Ține capul jos,",",dar inima sus.
+663. Trăiește,ca,dracu-n apă mică.
+664. Trecui balta,",",luai alta.
+665. Trupul,",",sluga sufletului.
+666. Umblă noaptea pe drum beat,ca,un câine turbat.
+667. Un Dumnezeu dă,și,zece iau.
+668. Un picior sănătos e mai cu putință,decât,două catalige.
+669. Unde baba face,",",dracul nu desface.
+670. Unde dai,și,unde crapă.
+671. Unde e ața mai subțire,",",acolo se rupe.
+672. Unde e dragoste multă,",",e și urâciune multă.
+673. Unde e hoitul,",",acolo se adună corbii.
+674. Unde e nădejde multă,",",acolo este și deșertăciune.
+675. Unde este pace,și,lui Dumnezeu îi place.
+676. Unde gândești,și,unde nimerești.
+677. Unde înserează,",",acolo doarme.
+678. Unde intră cearta-n casă,",",de acolo norocul iese.
+679. Unde intră vinul,",",rușinea iese de-acolo.
+680. Unde nu este stăpân,",",nu este nici Dumnezeu.
+681. Unde nu intră soarele,",",intră boalele.
+682. Unde nu te doare,",",nu te legi.
+683. Unde nu-i cap,",",vai de picioare.
+684. Unde o mănâncă,",",acolo o scarpină.
+685. Unde vezi mătănii multe,",",departe să nu te muște.
+686. Unde-i dragoste,",",e și ceartă.
+687. Unde-i dragoste puțină,",",lesne-i a găsi pricină.
+688. Unde-i frică,",",îi și rușine.
+689. Unde-i mai mare sfada,",",acolo-și vâră dracul coada.
+690. Unde-i minte multă,",",e și răbdare multă.
+691. Unde-i tot la loc,",",este și noroc.
+692. Unul trage la dracu’,și,altul la tată-său.
+693. Vai de cap,când,talpa-i mâncată pân’ la os.
+694. Vai de moarte fără râs,și,de nuntă fără plans!
+695. Vai de picioarele,care,poartă cap nebun.
+696. Viața urăște,iar,moartea împacă.
+697. Viața-i scurtă,",",moartea-i veșnică.
+698. Vinul ai îndrăgit,",",casa ți-ai prăpădit.
+699. Voiește,și,vei putea.
+700. Zicând numai: “miere”,",",gura nu se face dulce.
+701. Ziua se arată sfântă,și,noaptea ține pe dracul în brațe.
+702. Zorile până se scoală,",",se duce zama din oală.
+703. De când s-au lărgit ulițele,",",au pierit credințele.
+704. Decât la anul un bou,",",mai bine astăzi un ou.
+705. Decât o mie de ani răi,",",mai bine unul bun.
+706. Fie iarna cât de rece,",",numai Mărțișor de-ar trece.
+707. Fie orișicât de rece,",",numai Făurar de-ar trece.
+708. Ianuarie începe anul,dar,e mijlocul iernii.
+709. "Iarna-i grea, omătul mare",",",vai de omul care n-are.
+710. I-a venit vremea,dar,nu i-a venit ceasul.
+711. Rabdă un ceas,și,vei trăi un an.
+712. Scoală-te de dimineață,",",dacă vrei să-ți lungești viața.
+713. Vara-și râde în nas,",",iarna-și plânge în gură.
+714. Vine toamna cea bogată,",",de toată lumea lăudată.
+715. Vremea anevoie vine,și,fuge numaidecât.
+716. Ziua mare,",",lumânare nu trebuie.
+717. Apa cât de mare vine,",",piatra tot în vad rămâne.
+718. Apa trece,",",pietrele rămân.
+719. Apa tulbure,",",e bucuria pescarilor.
+720. Ceea ce vântul ne-aduce,",",curând de la noi se duce.
+721. Cine seamănă vânt,",",culege furtună.
+722. Dacă nu e ploaie,",",fie și ninsoare.
+723. Dacă nu știi ce-i apa,",",nu te sui în luntre.
+724. De nu plouă,",",măcar picură.
+725. Din vânt a venit,",",în vânt s-a dus.
+726. Ploaia de dimineață, ,e ca hora de babe.
+727. Picătura cea mai de pe urmă, ,vasul găurește.
+728. Ploaia mărunțică, ,multă vreme ține.
+729. Unde vede gârlă,",",închide ochii.
+730. Vântul aduce,",",vântul duce.
+731. Vântul aprinde focul,și,tot el îl stinge.
+732. Vântul ațâță focul,și,vorba ațâță vrajba.
+733. Vântul bate,",",câinii latră.
+734. Aurul și în gunoi,",",tot aur rămâne.
+735. Fieru-i fier,și,tot îl mănâncă rugina.
+736. "Focul, când se-ncinge",",",greu se stinge.
+737. Când e un singur pelin pe imaș,",",de departe se vede.
+738. Copacul când se sfărâmă,",",și p-alții mici cu el dărâmă.
+739. Copacul daca înfrunzește,",",umbrește și pe alții.
+740. Dacă floare ți-o păzești,",",rob bun dobândești.
+741. Dacă pădurea n-ar da coadă securei,",",pădurea n-ar putea fi tăiată.
+742. "Floarea, cum se deschide",",",se vede ce rod dă.
+743. "Floarea, până n-o pui la nas",",",n-o cunoști ce miros are.
+744. Flori frumoase sunt multe,dar,nu toate au miros dulce.
+745. Florile trandafirului se scutură,dar,spinii rămân.
+746. Toți copacii înfrunzesc,dar,nu toți dau roade.
+747. Trestia care se pleacă vântului,",",niciodată nu se frânge.
+748. "Fructul, dacă se desprinde de pom",",",înapoi nu se mai întoarce.
+749. Pe deasupra măr frumos,",",da-năuntru-i viermănos.
+750. Poama coaptă nu se caută după față,",",ci după dulceață.
+751. Via cere sapă adâncă și deasă,",",ca să ne dea nouă leac de viață.
+752. Albina are și miere,",",are și fiere.
+753. Albina te duce la miere,și,musca la scârnă.
+754. Arde casa,și,șoarecii-și iau masa.
+755. Are văz de lup,și,auz de vulpe.
+756. Ar împușca iepurele,",",dar n-are cine i-l presura cu sare pe coadă.
+757. Armăsarul când îmbătranește,",",ajunge la râșniță.
+758. Ba e rață,",",ba-i rățoi.
+759. Boii ară,și,caii mănâncă.
+760. Boul are limbă mare,",",dar nu grăiește.
+761. Boii uniți la pășune,",",lupul nu-i poate răpune.
+762. Bou la bou rage,",",prost la prost trage.
+763. Boul se leagă de coarne,și,omul de limbă.
+764. Calul bun se cunoaște în mers,",",omul bun se cunoaște în prietenie.
+765. Calul potcovit,",",niciodată nu lunecă pe gheață.
+766. Calul se cată de dinți,și,omul se cată de părinți.
+767. Calul trage la traista cu ovăs,și,omul la crâșma cu vin ales.
+768. Calului să-i dai mâncare cu sacul,și,să-l mâi ca pe dracul.
+769. Calul unde se trântește,",",acolo bate-l.
+770. Capra cât de bătrână,",",vrea să lingă și ea sare.
+771. "Capra, cât de râioasă",",",tot ține coada sus.
+772. Capra sare masa,",",iada sare casa.
+773. Capra face,",",oaia trage.
+774. Câinele care s-a înțeles cu lupii,",",nu păzește turma.
+775. "Câinele, că-i câine",",",dar și el își ia lumea în cap de la o vreme.
+776. Câinele latră,",",hoțul tace și fură.
+777. Câinele latră,",",iar lupul tace și face.
+778. Câinele latră,",",ursul merge.
+779. Când ai pisică bătrână,",",șoarecii-n casă-ți fac stână.
+780. Când ai vreo grabă,",",atuncea se sperie calul.
+781. Când e bolnav leul,",",iepurii îi sar în spinare.
+782. Când mor vitele de boală,",",toate javrele se îngrașă.
+783. Când pisica nu-i acasă,",",șoarecii joacă pe masă.
+784. Când se bat cap în cap berbecii,",",numai oaie sa nu fii.
+785. Când se ivește lupul,",",vulpea își caută gaura.
+786. Când se tund oile,",",tremură mieii.
+787. Când zburdă măgarii,",",se strică vremea.
+788. Cât de blând să fie motanul,",",tot zgârie când se mânie.
+789. Ce a mâncat lupul,",",e bun mâncat.
+790. Ce intră în gura lupului,",",anevoie iese.
+791. Ce naște din mâță,",",șoareci mănâncă.
+792. Ce naște din ogar,",",iepuri prinde.
+793. Cine câinele și-l iubește,",",n-are frică de tâlhari.
+794. Cine e mușcat de șarpe,",",se păzește și de șopârlă.
+795. Cine-i azi purcel,",",porc se face mâine.
+796. Cine încalecă măgarul,",",trebuie să-i sufere și năravul.
+797. Cine n-are gâini,",",de vulpe nu se păzește.
+798. Cine purcei crește,",",porci va avea.
+799. Cine se face oaie,",",îl mănâncă lupii.
+800. Cine se ia după muscă,",",ajunge la bălegar.
+801. Cine se simte cu musca pe căciulă,",",n-are hodină liniștită.
+802. Cine trăiește la un loc cu porcii,",",miroase rău la toți câinii.
+803. Cine umblă după doi iepuri,",",nu prinde niciunul.
+804. Cine vrea să se facă oaie,",",se găsește cine să-l despoaie.
+805. Cine vrea să miluiască un câine,",",găsește câteva firimituri în casă.
+806. Cioara e tot cioară,",",ia pruna și zboară.
+807. Cocoșească-se găina unde vrea,",",numai să se ouă acasă.
+808. Cocoșul care cântă noaptea,",",îl mănancă vulpea.
+809. Cucul cântă,iar,leneșul stă și numără.
+810. Cu un chitic,",",tot calic.
+811. Cu un rac,",",tot sărac.
+812. Dacă ar crește mintea pe toate cărările,",",ar paște-o și măgarii.
+813. Dacă ar face cocoșul ouă,",",ar fi găină.
+814. Dacă lupul s-ar teme de ploaie,",",ar purta manta.
+815. Decât o săptămână vrabie,",",mai bine o zi șoim.
+816. Decât un an cioară,",",mai bine șoim o vară.
+817. De te latră vreun câine,",",umple-i gura cu pâine.
+818. De unde nu te gândești,",",de-acolo sare iepurele.
+819. După ce leul moare,",",mulți se găsesc să-l jupoaie.
+820. E cât un țânțar,și,se crede armăsar.
+821. Fură oul de sub găină,și,vițelul din vacă.
+822. "Furnica, când îi vine moartea",",",scoate aripi și zboară.
+823. Găina bătrână face zama bună,dar,nici zama de pui proastă nu-i.
+824. "Ghici, boule",",","pricepe-te, măgarule."
+825. Greierele în vremea agoniselei cântă,și,iarna cere să se împrumute.
+826. Hrănește-l pe lup cât l-ai hrăni,",",el tot la pădure trage.
+827. I-a ieșit ursu-n cale,și,îi pare că pușca-i moale.
+828. Iepurașul nu-i fricos,",",numai că se cam dă la dos.
+829. "Iepurele, de unde sare",",",urmă n-are.
+830. Lac de ar fi,",",broaște sunt destule.
+831. Iepuroaica fată,și,iepurele de inimă se vaietă.
+832. Încuie grajdul,",",după ce i-au mâncat lupii boii.
+833. Într-un sat fără câini buni de pază,",",mulți musafiri nepoftiți s-ar plimba.
+834. Jivinelor le stă bine în pădure,și,oamenilor între oameni.
+835. La calul nărăvit,",",pinten ascuțit.
+836. La mâncare lup,și,la treabă iepure.
+837. Lăcusta-i mititică,dar,tare mult strică.
+838. Leagă prietenie cu câinele,numai,nu lăsa bâta din mână.
+839. Lupul își schimbă părul,dar,năravul ba.
+840. Lupul moare bătrân,și,de rele tot e bun.
+841. Mare-i puterea boului,dar,și un copil îi pune funia-n coarne.
+842. Măgar s-a dus,",",măgar s-a întors.
+843. "Mâța, dacă nu ajunge la slanină",",",zice că pute.
+844. Miluește câinele,",",de vrei să nu te muște.
+845. Moartea lupului,",",sănătatea oilor.
+846. Mulți câini îl latră pe urs,dar,niciunul nu-l mușcă.
+847. "Musca, deși nu mușcă tare",",",tot ți-aduce supărare.
+848. Nici cal,",",nici măgar.
+849. Nici curcă,",",nici curcan.
+850. Nici din câine slănină,",",nici din cățea smântână.
+851. Nicio frică de furnică,",","de țânțar, nici habar."
+852. Nu crede capra,că,nu va roade pomul.
+853. Nu întărâta viesparul,că,te mușcă mai rău albinele.
+854. Nu te speria de câinele care latră,ci,de cel care se apropie pe furiș.
+855. "Oaia, cât de hoață ar fi",",",nimeni n-o va bănui.
+856. Oaia se duce la scai,",",nu scaiul la oaie.
+857. Oaia unde paște,",",acolo își pierde lâna.
+858. Oile grămadă merg,",",caprele se aleg.
+859. Oricâtă apa ar bea un pește,",",toată o scoate pe urechi.
+860. Pasărea se cunoaște după cântec,și,omul după vorbă.
+861. Pasărea se prinde cu grăunțe,",",omul cu minciunile.
+862. Pe dinafară miel se vede,",",pe dinăuntru lup întreg.
+863. Pe lup mulți câini îl latră,dar,puțini îl încolțesc.
+864. Pe măgar unde-l legi,",",acolo rămâne.
+865. Pe unde trece lupul,",",i se cunoaște urma.
+866. Peștele caută unde-i mai adânc,iar,omul unde-i mai bine.
+867. "Pisica, cum o dai",",",tot în picioare cade.
+868. "Porcul tot strânge, se-ngrașă bine",dar,"pentru alții, nu pentru sine."
+869. Porcului îi place în glod,iar,bețivului în crâșmă.
+870. Puii care vor să zboare înainte de vreme,",",cad și se prăpădesc.
+871. Puricele cât de mic,",",sare cât o căprioară.
+872. Râde rața de baltă,și,baba de fată.
+873. S-a dus bou,și,s-a întors vacă.
+874. Șade pielea ursului în târg,și,ursul în pădure.
+875. "Șarpele, când îl doare capul",",",iese la drum.
+876. "Sarpele, cât de mult îl vei mângâia",",",el tot de va mușca.
+877. Șarpele până nu-l calci,",",nu te mușcă.
+878. Și câinele iese din iarnă,dar,numai pielea lui știe cum.
+879. Și cu oile toate,și,cu lupii prieteni nu se poate.
+880. Și măgarul are patru picioare,dar,nu e cal.
+881. Și păianjenul țese pânză,dar,din pânza lui nu se fac haine.
+882. Șoarecelui nu-i lipsește,că,din vreme-si grămădește.
+883. Tot boul l-am mâncat,și,la coadă ne-am ostenit.
+884. Toți câinii bat,iar,el șede-n pat.
+885. Trage nădejde,ca,ursul de coadă.
+886. Trăiești cu lupii,",",urli ca lupii.
+887. Unde a sărit capra,",",sare și iada.
+888. Unde cântă cocoși mulți,",",acolo se face ziuă târziu.
+889. Unde nu e iarbă verde,",",nu pasc oile.
+890. Unde nu sunt boi,",",ieslele sunt curate.
+891. Unde umblă cârtița,",",i se cunosc urmele.
+892. Unde vulpea nu ajunge,",",zice că-i ajunge.
+893. Urâtă pasăre e aceea,care,își spurcă cuibul.
+894. Vacă pe vacă se linge,și,porc pe porc se scarpină.
+895. Vaci n-avem,",",brânză mâncăm.
+896. Vai de dobitoc,când,nu-l vede stăpânul.
+897. Vai de pasărea,ce,scapă de colivie și cade în laț.
+898. Vai de târla fără câini,și,de casa fără stăpâni.
+899. Vitele se adapă cu apă,și,oamenii cu vorbe adânci.
+900. Vițel s-a născut,",",bou a murit.
+901. Vorbești de lup,și,lupu-i la ușă.
+902. Vrabia-i tot pui,",",dracul știe de când este.
+903. Vulpea moartă-n cale o vezi,și,parcă tot nu o crezi.
+904. Vulpea nu se teme de vânătorul,care,se laudă seara.
+905. Zăbala de argint,nu,face mai bun calul.
+906. Nu averea face pe om,ci,omul face averea.
+907. Omul are un dulce,și,un amar.
+908. "Omul, ca lumânarea, când luminează",",",atunci se sfârșește.
+909. Omul caută leac,unde,simte că-l doare.
+910. "Omul, când nu are ce lucra",",",își face de lucru.
+911. "Omul, când se bolnăvește",",",cel mai mic îi poruncește.
+912. "Omul, cât trăiește",",",dușmanii și-i sporește.
+913. Omul cel mai iscusit,uneori,e păcălit.
+914. Omul cu meșteșug,nu,piere.
+915. Omul cu de toate se deprinde,",",numai să vrea.
+916. "Omul, dând peste nevoie",",",multe face fără voie.
+917. Omul de ce-i place,",",de aceea se îngrașă.
+918. Omul de nimic nu se teme,ca,de bătaie.
+919. Omul deștept cumpără vara sanie,și,iarna căruță.
+920. Omul e dator,când,nu e dator cu nimic.
+921. Omul e dator să muncească,",",să nu-l găsească moartea șezând.
+922. Omul este ca oaia,",",lesne se ia după altul.
+923. Omul este mai slab ca o floare,și,mai tare ca o piatră.
+924. Omul este nesățios,:,"cu cât are, tot ar mai vrea să aibă."
+925. Omul este tare ca fierul,și,slab ca oul.
+926. Omul fără prieteni, ,e ca stânga fără dreapta.
+927. Omul fără boi,,e ca robul legat de mâini.
+928. Omul fără muiere,",",ca un om fără cămașă.
+929. Omul fără soție,",",ca o casă pustie.
+930. Omul harnic caută a aduna la bogății,ca,furnica la mușuroi.
+931. Omul își schimbă mintea,ca,o haină în toate zilele.
+932. "Omul, la nevoie, se prinde",și,de ascuțișul sabiei.
+933. Omul moare,dar,faptele sale se pomenesc în veci.
+934. Omul nu caută ce-i în inimă,ci,ce-i în gură.
+935. Omul nu iese cu dosul la oameni,ci,cu obrazul.
+936. Omul nu trăiește să mănânce,ci,manâncă să trăiască.
+937. Omul oricât trăiește,",",învățând se folosește.
+938. Omul poate povățui pe altul,dar,pe sine niciodată.
+939. "Omul prost, dacă nu e fudul",",",nu are niciun haz.
+940. Omul seamănă cu apa,",","dacă stă mult, se strică."
+941. Omul se ține de cuvânt,și,boul de coarne.
+942. Omul trage la om,și,dobitocul la dobitoc.
+943. Omului îî plac toate,dar,să le roadă nu poate.
+944. Scump îi omul,",",ieftin îi omul.
+945. "Tot omul, când e tânăr",",",e frumos.
+946. Una spune omul,și,alta face Domnul.
+947. Lumea-i mare,și,capăt n-are.
+948. Cine n-are cap,",",nu-l doare.
+949. Cu un gând să se ducă,",",cu zece nu.
+950. Mâna care dă,nu,se mușcă.
+951. Patru ochi văd mai bine,decât,doi.
+952. Mintea,nu,se cumpără cu bani.
+953. Cinstea cu rușinea,nu,pot sta împreună.
+954. Ce n-a învățat Ioniță,",",nu mai învață Ion.
+955. Ce știi,",",nu duci în spate.
+956. Cine are carte,",",are-n viață parte.
+957. Cine învață la tinerețe,",",se odihnește la bătrânețe.
+958. Cine nu învață la tinerețe,",",va plânge la bătrânețe.
+959. Cine știe carte,",",ajunge departe.
+960. Cine știe carte,",",are patru ochi.
+961. Cu cât mai multe vezi,",",cu atât mai multe înveți.
+962. E bine să fii învățat,dar,și umblat.
+963. Invață de mititel,că,ți-a fi mai ușurel.
+964. Învățătura nu se câștigă cu bani,dar,se câștigă cu ani.
+965. Lesne a învăța,",",greu a face.
+966. Meșteșugul vreme cere,",",nu se-nvață din vedere.
+967. Multe greșești,",",multe înveți.
+968. Mult umbli,",",mult înveți.
+969. Nevoia învață pe om,și,nuiaua pe copil.
+970. Nimenea nu poate să zică, ,acuma le știu pe toate.
+971. Nu câte știi,ci,cum le știi.
+972. Nu e omul niciodată bătrân,când,e vorba de învățătură.
+973. Omul care știe carte,",",de toate are parte.
+974. Omul fără învățătură e,ca,pământul fără udătură.
+975. Până nu dai cu capul de toți pereții,",",nu te îndrepți.
+976. Școala este locul,unde,îți țeși norocul.
+977. Știe multe,dar,mărunte.
+978. Foaie verde-a bobului,",",scumpă-i minte omului.
+979. Gura înțeleptului când se deschide,",",tu închide pe a ta.
+980. Inima înțeleptului e în limbă,și,a nebunului în gură.
+981. Înțeleptul adună,și,prostul risipește.
+982. Înțeleptul făgăduiește,și,nebunul trage nădejde.
+983. Înțeleptul tace,și,face.
+984. Omul înțelept face ce poate,",",nu ce vrea.
+985. De vorbă bună,nu,te doare gura.
+986. Vorbele cele ferite,",",în piață și-n moară-s vorbite.
+987. Cu curaj și cu silință,",",izbutești la orice te îndeletnicești.
+988. Omul vrednic se face și luntre și punte,și,iese la mal.
+989. Nu căuta ce am fost,",",vezi acum ce sunt.
+990. Eu am ajuns de râs,și,tu de ocară.
