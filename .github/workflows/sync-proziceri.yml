@@ -1,0 +1,45 @@
+name: Sync proziceri folder to bogdan-nechita/proziceri repo
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "proziceri/**"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout bogdan-nechita.github.io
+        uses: actions/checkout@v4
+        with:
+          path: source
+
+      - name: Checkout bogdan-nechita/proziceri
+        uses: actions/checkout@v4
+        with:
+          repository: bogdan-nechita/proziceri
+          token: ${{ secrets.PROZICERI_SYNC_TOKEN }}
+          path: target
+
+      - name: Replace target repo contents with proziceri folder
+        run: |
+          # Remove all files from target (except .git)
+          find target -mindepth 1 -not -path "target/.git*" -delete
+
+          # Copy all files from the proziceri folder into the target repo root
+          cp -r source/proziceri/. target/
+
+      - name: Commit and push changes
+        run: |
+          cd target
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to sync."
+          else
+            git commit -m "Sync from bogdan-nechita.github.io/proziceri"
+            git push
+          fi
