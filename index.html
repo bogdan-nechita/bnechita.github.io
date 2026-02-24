@@ -14,25 +14,22 @@
 		}
 
 		:root {
-			--color-bg: #0a0a0f;
-			--color-surface: #12121a;
-			--color-text: #e0e0e8;
-			--color-text-secondary: #6a6a8a;
-			--color-accent: #00ffaa;
-			--color-accent-dim: rgba(0, 255, 170, 0.08);
-			--color-accent-hover: #00cc88;
-			--color-border: #1e1e2e;
-			--color-glow: rgba(0, 255, 170, 0.15);
-			--shadow-glow: 0 0 20px rgba(0, 255, 170, 0.1);
-			--shadow-glow-lg: 0 0 40px rgba(0, 255, 170, 0.15);
-			--radius: 4px;
+			--color-bg: #f8f7f4;
+			--color-surface: #ffffff;
+			--color-text: #2c2c2c;
+			--color-text-secondary: #8a8a8a;
+			--color-accent: #6b7b8d;
+			--color-border: #e9e8e4;
+			--shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.03);
+			--shadow-md: 0 2px 8px rgba(0, 0, 0, 0.04);
+			--radius: 10px;
 		}
 
 		body {
-			font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace;
+			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 			background-color: var(--color-bg);
 			color: var(--color-text);
-			line-height: 1.6;
+			line-height: 1.7;
 			min-height: 100vh;
 			display: flex;
 			flex-direction: column;
@@ -42,7 +39,7 @@
 		main {
 			flex: 1;
 			width: 100%;
-			max-width: 720px;
+			max-width: 640px;
 			margin: 0 auto;
 			padding: 0 24px;
 		}
@@ -52,43 +49,25 @@
 		}
 
 		.hero h1 {
-			font-size: 2.6rem;
-			font-weight: 700;
-			letter-spacing: -0.04em;
-			line-height: 1.1;
-			margin-bottom: 16px;
-			color: #fff;
-		}
-
-		.hero h1 .accent {
-			color: var(--color-accent);
-			text-shadow: 0 0 30px var(--color-glow);
+			font-size: 2rem;
+			font-weight: 600;
+			letter-spacing: -0.02em;
+			line-height: 1.3;
+			margin-bottom: 10px;
 		}
 
 		.hero p {
-			font-size: 0.95rem;
+			font-size: 1.05rem;
 			color: var(--color-text-secondary);
-			max-width: 480px;
-			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 		}
 
 		.section-label {
-			font-size: 0.7rem;
-			font-weight: 600;
+			font-size: 0.78rem;
+			font-weight: 500;
 			text-transform: uppercase;
-			letter-spacing: 0.15em;
-			color: var(--color-accent);
-			margin-bottom: 20px;
-			display: flex;
-			align-items: center;
-			gap: 12px;
-		}
-
-		.section-label::after {
-			content: '';
-			flex: 1;
-			height: 1px;
-			background: linear-gradient(90deg, var(--color-border), transparent);
+			letter-spacing: 0.06em;
+			color: var(--color-text-secondary);
+			margin-bottom: 16px;
 		}
 
 		.projects {
@@ -99,56 +78,31 @@
 		.project-card {
 			display: flex;
 			align-items: center;
-			gap: 20px;
+			gap: 18px;
 			background: var(--color-surface);
 			border: 1px solid var(--color-border);
 			border-radius: var(--radius);
-			padding: 24px;
+			padding: 22px 24px;
 			text-decoration: none;
 			color: inherit;
-			transition: all 0.25s ease;
-			position: relative;
-			overflow: hidden;
-		}
-
-		.project-card::before {
-			content: '';
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 2px;
-			height: 100%;
-			background: var(--color-accent);
-			opacity: 0;
-			transition: opacity 0.25s ease;
+			transition: box-shadow 0.2s ease, border-color 0.2s ease;
+			box-shadow: var(--shadow-sm);
 		}
 
 		.project-card:hover {
-			border-color: var(--color-accent);
-			box-shadow: var(--shadow-glow);
-			background: var(--color-accent-dim);
-		}
-
-		.project-card:hover::before {
-			opacity: 1;
+			box-shadow: var(--shadow-md);
+			border-color: #d4d3cf;
 		}
 
 		.project-icon {
 			flex-shrink: 0;
-			width: 48px;
-			height: 48px;
-			border-radius: var(--radius);
-			background: var(--color-accent-dim);
-			border: 1px solid rgba(0, 255, 170, 0.15);
+			width: 44px;
+			height: 44px;
+			border-radius: 8px;
+			background: #f0efec;
 			display: flex;
 			align-items: center;
 			justify-content: center;
-			transition: all 0.25s ease;
-		}
-
-		.project-card:hover .project-icon {
-			background: rgba(0, 255, 170, 0.15);
-			box-shadow: 0 0 20px rgba(0, 255, 170, 0.1);
 		}
 
 		.project-icon svg {
@@ -158,41 +112,36 @@
 		}
 
 		.project-info h3 {
-			font-size: 1rem;
+			font-size: 0.98rem;
 			font-weight: 600;
 			margin-bottom: 2px;
-			color: #fff;
-			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 		}
 
 		.project-info p {
-			font-size: 0.85rem;
+			font-size: 0.88rem;
 			color: var(--color-text-secondary);
-			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 		}
 
 		.project-arrow {
 			margin-left: auto;
 			flex-shrink: 0;
-			color: var(--color-text-secondary);
-			transition: all 0.25s ease;
+			color: #c8c7c3;
+			transition: transform 0.2s ease, color 0.2s ease;
 		}
 
 		.project-card:hover .project-arrow {
-			transform: translateX(4px);
-			color: var(--color-accent);
-			filter: drop-shadow(0 0 6px var(--color-glow));
+			transform: translateX(3px);
+			color: var(--color-text-secondary);
 		}
 
 		footer {
-			padding: 48px 24px;
+			padding: 56px 24px;
 			text-align: center;
 		}
 
 		footer p {
-			font-size: 0.8rem;
+			font-size: 0.82rem;
 			color: var(--color-text-secondary);
-			letter-spacing: 0.05em;
 		}
 
 		@media (max-width: 480px) {
@@ -201,12 +150,12 @@
 			}
 
 			.hero h1 {
-				font-size: 1.9rem;
+				font-size: 1.6rem;
 			}
 
 			.project-card {
-				padding: 20px;
-				gap: 16px;
+				padding: 18px 20px;
+				gap: 14px;
 			}
 		}
 	</style>
@@ -214,7 +163,7 @@
 <body>
 	<main>
 		<section class="hero">
-			<h1>Projects <span class="accent">&</span> Experiments</h1>
+			<h1>Projects & Experiments</h1>
 			<p>A collection of things I've built and explored.</p>
 		</section>
 
